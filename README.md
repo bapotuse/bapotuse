@@ -9,7 +9,7 @@ Développeur passionné par les technologies web et les applications innovantes.
 
 ## ✉️ Contact
 [![Portfolio](https://img.shields.io/badge/Portfolio-bapotuse.fr-blue?style=for-the-badge&logo=firefox)](https://bapotuse.fr)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Baptiste%20Beaux-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/baptiste-beaux-44a7412b0/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Baptiste%20Beaux-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baptiste-beaux-44a7412b0/)  
 [![Email](https://img.shields.io/badge/Email-baptistebeaux--pro@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:baptistebeaux-pro@gmail.com)  
 
 

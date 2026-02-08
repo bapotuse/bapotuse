@@ -8,8 +8,8 @@ Développeur passionné par les technologies web et les applications innovantes.
 - ⚡ Passionné par les projets open-source et la collaboration en équipe.
 
 ## ✉️ Contact
-[![Portfolio](https://img.shields.io/badge/Portfolio-bapotuse.fr-blue?style=for-the-badge&logo=firefox)](https://bapotuse.fr)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Baptiste%20Beaux-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baptiste-beaux-44a7412b0/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-bapotuse.fr-blue?style=for-the-badge)](https://bapotuse.fr)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Baptiste%20Beaux-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/baptiste-beaux-44a7412b0/)  
 
 ## 🛠️ Compétences
 

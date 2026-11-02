@@ -28,6 +28,12 @@ Je m'ouvre actuellement à des **missions freelance** orientées débutant, **pa
 - 🚀 **2025 – aujourd'hui · École 42 Marseille** : titre RNCP niveau 7 *Expert en Architecture Informatique*, apprentissage par projets et en pair-à-pair.
 
 ---
+ 
+## 🏆 Expériences & événements
+ 
+- 🎮 **2 Game Jams** : créer un jeu en un temps limité, en équipe, en tenant les délais.
+- 💡 **Hackathon CEVA Logistics × HEC Paris** : un défi d'innovation en équipe, au croisement de la logistique et de la tech.
+---
 
 ## 🛠️ Technologies
 
@@ -49,7 +55,7 @@ Je m'ouvre actuellement à des **missions freelance** orientées débutant, **pa
 ## 🎯 Ce que je recherche
 
 - 🤝 Du **pair programming** pour progresser et partager
-- 🧩 Des **missions freelance accessibles**, adaptées à un profil débutant
+- 🧩 Des **missions freelance accessibles**
 - 👥 Un travail **encadré et en équipe**
 
 ---

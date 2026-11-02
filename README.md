@@ -60,9 +60,3 @@ Je m'ouvre actuellement à des **missions freelance** orientées débutant, **pa
 - 💼 LinkedIn : [Mon LinkedIn](https://www.linkedin.com/in/baptiste-beaux-44a7412b0/)
 
 ---
-
-<div align="center">
-
-⭐ *Merci d'être passé par là !* ⭐
-
-</div>

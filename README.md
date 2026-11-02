@@ -2,7 +2,7 @@
 
 # 👋 Salut, moi c'est Baptiste
 
-### Développeur web & software — étudiant à 42 Marseille
+### Développeur FullStack — étudiant à 42 Marseille
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -18,7 +18,7 @@
 
 Je suis développeur, basé en France, passionné par la conception d'applications web et de logiciels. J'aime comprendre comment les choses fonctionnent de bout en bout, du front à l'architecture, et progresser en construisant des projets concrets.
 
-Je m'ouvre actuellement à des **missions freelance** orientées débutant, **pair programming** et travail en équipe.
+Je m'ouvre actuellement à **un stage ou une alternance** pour pouvoir valider mon titre RNCP 7 (Expert en Architecture Informatique), des **missions freelance**, **pair programming** et travail en équipe.
 
 ---
 
@@ -32,7 +32,7 @@ Je m'ouvre actuellement à des **missions freelance** orientées débutant, **pa
 ## 🏆 Expériences & événements
  
 - 🎮 **2 Game Jams** : créer un jeu en un temps limité, en équipe, en tenant les délais.
-- 💡 **Hackathon CEVA Logistics × HEC Paris** : un défi d'innovation en équipe, au croisement de la logistique et de la tech.
+- 💡 **Hackathon CEVA Logistics × HEC Paris x 42 Marseille** : un défi d'innovation en équipe, au croisement de la logistique et de la tech.
 ---
 
 ## 🛠️ Technologies

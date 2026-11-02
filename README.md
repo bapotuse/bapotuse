@@ -1,28 +1,70 @@
-# 👋 About me
+<div align="center">
 
-Hi! I'm Baptiste, a French student at 42.
+# 👋 Salut, moi c'est Baptiste
 
-I'm passionate about software development and enjoy building projects that help me learn new technologies. My main focus is web development, but I'm also interested in low-level programming, system development, and artificial intelligence.
+### Développeur web & software — étudiant à 42 Marseille
 
-## 🚀 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Web Development**
+</div>
 
-- JavaScript
-- Vue.js
-- Node.js
-- Tailwind CSS
-- Bootstrap
-- PHP
-- Symfony
+---
 
-**Software Development**
+## 🙋‍♂️ À propos
 
-- Python
-- C
-- Java
+Je suis développeur, basé en France, passionné par la conception d'applications web et de logiciels. J'aime comprendre comment les choses fonctionnent de bout en bout, du front à l'architecture, et progresser en construisant des projets concrets.
 
-**Tools**
+Je m'ouvre actuellement à des **missions freelance** orientées débutant, **pair programming** et travail en équipe.
 
-- Git
-- Unix/Linux
+---
+
+## 🎓 Mon parcours
+
+- 💻 **2023 – 2025 · BTS SIO option SLAM** : développement d'applications web et métiers, bases de données, gestion de projet.
+- 🚀 **2025 – aujourd'hui · École 42 Marseille** : titre RNCP niveau 7 *Expert en Architecture Informatique*, apprentissage par projets et en pair-à-pair.
+
+---
+
+## 🛠️ Technologies
+
+### 🌐 Web
+| Technologie | Usage |
+|---|---|
+| **JavaScript** | Langage de base du développement web |
+| **Vue.js** | Interfaces front-end réactives |
+| **Node.js** | Back-end et outils en JavaScript |
+| **PHP** | Développement web côté serveur |
+
+### ⚙️ Software
+| Technologie | Usage |
+|---|---|
+| **Python** | Scripts, applications et traitement de données |
+
+---
+
+## 🎯 Ce que je recherche
+
+- 🤝 Du **pair programming** pour progresser et partager
+- 🧩 Des **missions freelance accessibles**, adaptées à un profil débutant
+- 👥 Un travail **encadré et en équipe**
+
+---
+
+## 📫 Me contacter
+
+- 🟠 Malt : [Mon profil Malt](https://www.malt.fr/profile/VOTRE-PROFIL)
+- 💼 LinkedIn : _à compléter_
+- 📧 Email : _à compléter_
+- 🌍 Portfolio : _à compléter_
+
+---
+
+<div align="center">
+
+⭐ *Merci d'être passé par là !* ⭐
+
+</div>

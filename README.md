@@ -56,10 +56,8 @@ Je m'ouvre actuellement à des **missions freelance** orientées débutant, **pa
 
 ## 📫 Me contacter
 
-- 🟠 Malt : [Mon profil Malt](https://www.malt.fr/profile/VOTRE-PROFIL)
-- 💼 LinkedIn : _à compléter_
-- 📧 Email : _à compléter_
-- 🌍 Portfolio : _à compléter_
+- 🟠 Malt : [Mon profil Malt](https://www.malt.fr/profile/baptistebeaux?origin=dashboard_profile_name)
+- 💼 LinkedIn : [Mon LinkedIn](https://www.linkedin.com/in/baptiste-beaux-44a7412b0/)
 
 ---
 
